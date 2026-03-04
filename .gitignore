@@ -1,0 +1,4 @@
+# Ignore datasets
+*.csv
+*.tsv
+*.txt
